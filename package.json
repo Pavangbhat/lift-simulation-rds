@@ -1,0 +1,22 @@
+{
+  "name": "lift-simulation-rds",
+  "version": "1.0.0",
+  "description": "lift-simulation-task",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavangbhat/lift-simulation-rds.git"
+  },
+  "author": "pavangbhat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavangbhat/lift-simulation-rds/issues"
+  },
+  "homepage": "https://github.com/Pavangbhat/lift-simulation-rds#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
